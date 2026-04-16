@@ -1,5 +1,5 @@
 # MusicDLL - Reproductor de Música (Lista Doblemente Enlazada)
-
+APLICACION EN VIVO(https://taller-reproductor-de-musica-psi.vercel.app)
 Este es un reproductor de música interactivo desarrollado en **TypeScript** y **React**. El objetivo principal del proyecto es demostrar el uso y la gestión de una **Lista Doblemente Enlazada (DLL)** como estructura de datos principal para la navegación de una playlist.
 
 ## 🚀 Cómo ejecutar el proyecto
